@@ -1,0 +1,15 @@
+{
+  "name": "omega-1-digital-gateway",
+  "version": "2.1.0",
+  "description": "元始·Ω-1 数字智能网关",
+  "main": "omega-digital-gateway.js",
+  "scripts": {
+    "start": "node omega-digital-gateway.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
